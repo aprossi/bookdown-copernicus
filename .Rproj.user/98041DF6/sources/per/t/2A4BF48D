@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1535974209620.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3815703649",
+    "id" : "2A4BF48D",
+    "lastKnownWriteTime" : 1535974283,
+    "last_content_update" : 1535974283615,
+    "path" : "D:/github/bookdown-copernicus/body.Rmd",
+    "project_path" : "body.Rmd",
+    "properties" : {
+        "cursorPosition" : "122,235",
+        "scrollLine" : "105"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
